@@ -1,4 +1,3 @@
-const httpRequest = require('request');
 const bot = require('./bot');
 const translateService = require('./services/translate.service');
 
