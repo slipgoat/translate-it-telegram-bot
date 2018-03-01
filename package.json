@@ -1,0 +1,22 @@
+{
+  "name": "translate-it-telegram-bot",
+  "version": "1.0.0",
+  "description": "translate telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "translate",
+    "languages",
+    "telegram",
+    "bot"
+  ],
+  "author": "aleksey.vershkov",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.83.0"
+  }
+}
