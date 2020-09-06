@@ -16,7 +16,7 @@
   "author": "aleksey.vershkov",
   "license": "ISC",
   "dependencies": {
-    "node-telegram-bot-api": "^0.30.0",
-    "request": "^2.83.0"
+    "@google-cloud/translate": "^6.0.2",
+    "node-telegram-bot-api": "^0.50.0"
   }
 }
