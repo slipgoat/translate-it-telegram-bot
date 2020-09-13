@@ -9,4 +9,4 @@ ru <текст на английском> - перевод на русский
 ```
 Команды можно печатать с заглавной
 ### Built with
-Переведено сервисом [Яндекс.Переводчик](http://translate.yandex.ru/)
+Переведено сервисом [Google Cloud Translate](https://cloud.google.com/translate)
